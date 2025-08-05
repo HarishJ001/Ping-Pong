@@ -18,9 +18,9 @@ Player 2: ↑ (up), ↓ (down)
 
 🧑‍💻 Tech Stack
 
-HTML
-CSS
-JavaScript 
+HTML, 
+CSS, 
+JavaScript,  
 Canvas API
 
 📁 Files Included
